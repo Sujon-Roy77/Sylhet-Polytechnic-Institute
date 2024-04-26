@@ -1,2 +1,2 @@
 # Sylhet-Polytechnic-Institute
-git@github.com:Sujon-Roy77/Sylhet-Polytechnic-Institute.git
+https://github.com/Sujon-Roy77/Sylhet-Polytechnic-Institute
